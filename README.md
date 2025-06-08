@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @xocomp
 - 👀 I’m interested in AI creation
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate with no one.
+- 💞️ I’m looking to collaborate using AI
 - 📫 How to reach me ...
-- 😄 Pronouns: What?
+- 😄 Pronouns:Him
 - ⚡ Fun fact: ...
 
 <!---
